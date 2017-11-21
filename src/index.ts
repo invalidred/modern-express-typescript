@@ -16,3 +16,5 @@ export function startServer() {
 }
 
 startServer();
+
+export const testConfig = { app, express };
